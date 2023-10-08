@@ -1,0 +1,22 @@
+{
+  "name": "midas-data-scrape",
+  "version": "1.0.0",
+  "description": "Basic app for scrape data from getmidas.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uaerman/midas-data-scrape.git"
+  },
+  "author": "",
+  "license": "No License Provided",
+  "bugs": {
+    "url": "https://github.com/uaerman/midas-data-scrape/issues"
+  },
+  "homepage": "https://github.com/uaerman/midas-data-scrape#readme",
+  "dependencies": {
+    "puppeteer": "^21.3.8"
+  }
+}
